@@ -1,4 +1,4 @@
-# Justin "Jay" Nguyen
+# Justin Nguyen
 
 **Computer Science Graduate | IT & Cybersecurity | CompTIA A+ & Security+ in progress**
 
