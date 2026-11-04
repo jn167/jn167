@@ -19,7 +19,7 @@ A full-stack web application I planned and built as a marketplace for the UNT co
 | **Auth** | better-auth |
 | **Testing** | Playwright end-to-end tests |
 | **CI** | GitHub Actions |
-| **Repo** | [unt-marketplace](https://github.com/YOUR-USERNAME/unt-marketplace) |
+| **Repo** | [UNT-Marketplace](https://github.com/CSCE-4901-Gold-Team/UNT-Marketplace) |
 
 ---
 
@@ -29,7 +29,7 @@ A planned series of hands-on home labs to build practical blue-team and offensiv
 
 | # | Lab | Focus | Status |
 | --- | --- | --- | --- |
-| 1 | SIEM & Log Analysis | Log ingestion, basic detection rules, dashboards | Planned |
+| 1 | [SIEM & Log Analysis](https://github.com/jn167/siem-log-analysis-lab) | Log ingestion, basic detection rules, dashboards | In progress |
 | 2 | Network Traffic Analysis | Packet capture and analysis with Wireshark | Planned |
 | 3 | Vulnerability Scanning | Scanning a test network, prioritizing findings | Planned |
 | 4 | Incident Response Practice | Simulated incident, timeline, and write-up | Planned |
@@ -55,5 +55,5 @@ A planned series of hands-on home labs to build practical blue-team and offensiv
 
 ## Connect
 
-- LinkedIn: [linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/YOUR-LINKEDIN)
-- Email: your.email@example.com
+- LinkedIn: [linkedin.com/in/justin-nguyen-1a804a293](https://www.linkedin.com/in/justin-nguyen-1a804a293/)
+- Email: [jmnguyenbiz@gmail.com](mailto:jmnguyenbiz@gmail.com)
