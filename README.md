@@ -56,4 +56,4 @@ A planned series of hands-on home labs to build practical blue-team and offensiv
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/justin-nguyen-1a804a293/)
-- [Email](mailto:jmnguyenbiz@gmail.com)
+- Email: [jmnguyenbiz@gmail.com](mailto:jmnguyenbiz@gmail.com)
