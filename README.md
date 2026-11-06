@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/banner.png" alt="Justin Nguyen — Cybersecurity, Blue Team, SIEM" width="720">
+</div>
+
 # Justin Nguyen
 
 **Computer Science Graduate | IT & Cybersecurity | CompTIA A+ & Security+ in progress**
