@@ -37,7 +37,7 @@ A series of hands-on home labs to build practical blue-team and offensive securi
 | # | Lab | Focus | Status |
 | --- | --- | --- | --- |
 | **1** | **[SIEM & Log Analysis](https://github.com/jn167/siem-log-analysis-lab)** | **Wazuh, log ingestion, custom detection rules, dashboards** | **Complete** |
-| 2 | Network Traffic Analysis | Packet capture and analysis with Wireshark | Planned |
+| 2 | [Network Traffic Analysis](https://github.com/jn167/network-traffic-analysis-lab) | Packet capture and analysis with Wireshark, plus Suricata and Zeek IDS | In progress |
 | 3 | Vulnerability Scanning | Scanning a test network, prioritizing findings | Planned |
 | 4 | Incident Response Practice | Simulated incident, timeline, and write-up | Planned |
 | 5 | Active Directory Home Lab | Building a small AD domain, then studying common attacks | Planned |
