@@ -17,16 +17,16 @@ Based in the Dallas / Fort Worth area. I'm building toward a career in IT and cy
 
 ## 🚀 Featured Project
 
-### UNT Marketplace
-A full-stack web application I planned and built as a marketplace for the UNT community.
+### [SIEM & Log Analysis Home Lab](https://github.com/jn167/siem-log-analysis-lab)
+A hands-on Wazuh SIEM on an isolated virtual network. Windows and Linux endpoints forward telemetry to the SIEM, I run safe attacker simulations against my own machines, and five custom MITRE ATT&CK mapped rules catch each technique. Every detection is written up analyst-style: what fired, what actually happened, and what to do about it.
 
 | | |
 | --- | --- |
-| **Stack** | Next.js, TypeScript, PostgreSQL |
-| **Auth** | better-auth |
-| **Testing** | Playwright end-to-end tests |
-| **CI** | GitHub Actions |
-| **Repo** | [UNT-Marketplace](https://github.com/CSCE-4901-Gold-Team/UNT-Marketplace) |
+| **SIEM** | Wazuh 4.14 (manager, indexer, dashboard) |
+| **Endpoints** | Windows 11 with Sysmon, Ubuntu 24.04, Kali Linux attacker |
+| **Detections** | 5 custom rules, validated against live simulated attacks |
+| **Highlights** | SSH brute force detected end to end, custom SOC overview dashboard |
+| **Repo** | [siem-log-analysis-lab](https://github.com/jn167/siem-log-analysis-lab) |
 
 ---
 
@@ -42,8 +42,20 @@ A series of hands-on home labs to build practical blue-team and offensive securi
 | 4 | Incident Response Practice | Simulated incident, timeline, and write-up | Planned |
 | 5 | Active Directory Home Lab | Building a small AD domain, then studying common attacks | Planned |
 
-> [!TIP]
-> Start with the [SIEM & Log Analysis lab](https://github.com/jn167/siem-log-analysis-lab), it deploys a Wazuh SIEM, forwards Windows and Linux telemetry, detects attacker techniques with five custom rules, and writes each one up analyst-style.
+---
+
+## 💻 Other Projects
+
+### UNT Marketplace
+A full-stack marketplace web app for the UNT community, built as a group senior project during my final year at the University of North Texas.
+
+| | |
+| --- | --- |
+| **Stack** | Next.js, TypeScript, PostgreSQL |
+| **Auth** | better-auth |
+| **Testing** | Playwright end-to-end tests |
+| **CI** | GitHub Actions |
+| **Repo** | [UNT-Marketplace](https://github.com/CSCE-4901-Gold-Team/UNT-Marketplace) |
 
 ---
 
